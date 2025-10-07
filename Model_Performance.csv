@@ -1,0 +1,6 @@
+Model,RMSE,MAE,R2_Score,Status
+XGBoost,20.65,6.93,0.9959,Stable
+Random Forest,21.34,9.57,0.9956,Good
+LightGBM,19.03,7.68,0.9965,Best
+LSTM,44.68,14.3,0.9807,Needs Tuning
+Tuned LSTM,20.54,11.38,0.9959,Improved
